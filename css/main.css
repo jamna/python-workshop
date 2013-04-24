@@ -3020,9 +3020,9 @@ header { padding: 10px; font-weight: 700; position: relative; text-align: center
 
 h2 { color: #eb5d1f; /* border-bottom: 2px solid #3674a8; */ padding-bottom: 5px; font-size: 26px; }
 
-ul li { line-height: 1.3em; font-size: 20px; margin-bottom: 20px; font-weight: bold; list-style-type: none; }
+ul li { line-height: 1.5em; font-size: 18px; margin-bottom: 15px; font-weight: bold; list-style-type: none; }
 
-ul li ul li { color: #666; list-style-type: none; font-size: 18px; font-weight: normal; line-height: 1.5em; }
+ul li ul li { list-style-type: none; font-size: 18px; font-weight: normal; line-height: 1.5em; }
 
 .box { background-color: #3674a8; font-size: 60px; line-height: 131px; height: 131px; }
 
@@ -3030,7 +3030,7 @@ ul li ul li { color: #666; list-style-type: none; font-size: 18px; font-weight: 
 
 .top-heading p { font-family: 'Maven Pro', sans-serif; font-size: 72px; color: #faec5c; }
 
-.hurry { padding: 20px; text-align: center; }
+.hurry { margin-left: -17px; }
 
 footer { background: white; font-size: 16px; padding-top: 45px; }
 
