@@ -3003,7 +3003,7 @@ body { background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAA
 
 .presented-by { margin-top: 40px; margin-bottom: 40px; }
 
-.workshop-date { font-size: 32px; font-weight: 400; margin-bottom: 30px; color: #666; margin-top: 30px; }
+.workshop-date { font-size: 25px; font-weight: 400; margin-bottom: 30px; color: #666; margin-top: 30px; }
 
 .alert-info { background-color: #3674a8; border-color: #ada831; color: white; text-align: center; }
 
@@ -3037,7 +3037,7 @@ footer { background: white; font-size: 16px; padding-top: 45px; }
 
 .bottom { margin-top: 20px; background-color: #eee; }
 
-.muted { padding: 20px; }
+.media { padding: 15px; }
 
 .contact-number { font-weight: bold; color: #c95000; }
 
